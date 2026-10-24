@@ -45,11 +45,7 @@ public class HibernateMain {
 //		.setParameter("name","SaiRevanth")
 //		.setParameter("bankname", "HDFC")
 //		.setParameter("mobileno", 1234567).executeUpdate();
-//		
-		
-		
-//		
-		
+	
 		
 		
 		
